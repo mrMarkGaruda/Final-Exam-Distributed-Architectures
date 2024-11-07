@@ -1,2 +1,2 @@
 # Final-Exam-Distributed-Architectures
-Final exam for the distributed architectures 
+Final exam for the distributed architectures by **Mark Abramenko**
